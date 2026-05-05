@@ -13,7 +13,3 @@ Most of my work lives in private repos, I keep a few public projects going so I 
 - How teams *learn*, not from individual bugs but from patterns across hundreds of them. Bug archaeology, regression tracking, retros that drive structural change rather than just generating action items.
 - AI in the dev loop, code review, bug triage, pre-grooming, without losing the parts that make engineers good.
 - Server-rendered web apps in 2026. htmx and friends have quietly made it possible to skip the SPA tax and ship faster.
-
-#### Reach me
-
-[in/richardpangborn](https://linkedin.com/in/richardpangborn) · rpangborn@gmail.com
