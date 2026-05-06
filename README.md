@@ -1,15 +1,19 @@
-### Richard Pangborn
+# Richard Pangborn
 
-Software Development Manager at **[Method:CRM](https://method.me)** in Toronto, leading multiple engineering teams on the leading CRM platform for QuickBooks. I think a lot about scaling team performance, engineering process, and how AI fits into the dev loop without watering down what makes engineers good at their jobs.
+Software Development Manager at [Method:CRM](https://www.method.me) in Toronto, leading CRM and runtime product engineering teams on the leading CRM platform for QuickBooks.
 
-Most of my work lives in private repos, I keep a few public projects going so I stay hands-on and can think clearly about the tools my team actually ships with.
+I think a lot about scaling team performance, engineering process, and how AI fits into the dev loop without watering down what makes engineers good at their jobs.
 
-#### Currently shipping
+Most of my work lives in private repos, but I keep a few public projects going so I stay hands-on and can think clearly about the tools my teams actually ship with.
 
-🚀 **[TaskPilot](https://github.com/PangbornIdentity/TaskPilot)**, Personal task manager with a native MCP server, REST API for LLM clients (Claude Desktop, ChatGPT, Copilot), and an htmx-rendered UI. Live at [taskpilot.azurewebsites.net](https://taskpilot.azurewebsites.net). Built on .NET 10, ASP.NET Core, EF Core, and Azure SQL, with a Playwright E2E suite. Built to scratch my own itch and to learn what shipping a real MCP server actually feels like.
+## Currently shipping
 
-#### What I think about a lot
+🚀 [TaskPilot](https://github.com/PangbornIdentity/TaskPilot) — personal task manager with a native MCP server, REST API for LLM clients, and an htmx-rendered UI.
 
-- How teams *learn*, not from individual bugs but from patterns across hundreds of them. Bug archaeology, regression tracking, retros that drive structural change rather than just generating action items.
-- AI in the dev loop, code review, bug triage, pre-grooming, without losing the parts that make engineers good.
+Built with .NET 10, ASP.NET Core, EF Core, Azure SQL, and Playwright E2E tests. Deployed at [taskpilot.azurewebsites.net](https://taskpilot.azurewebsites.net). Built to scratch my own itch and learn what shipping a real MCP server actually feels like.
+
+## What I think about a lot
+
+- How teams learn — not from individual bugs but from patterns across hundreds of them: bug archaeology, regression tracking, and retros that drive structural change instead of just generating action items.
+- AI in the dev loop — code review, bug triage, and pre-grooming — without losing the parts that make engineers good.
 - Server-rendered web apps in 2026. htmx and friends have quietly made it possible to skip the SPA tax and ship faster.
