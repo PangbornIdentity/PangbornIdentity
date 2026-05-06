@@ -10,7 +10,7 @@ Most of my work lives in private repos, but I keep a few public projects going s
 
 🚀 [TaskPilot](https://github.com/PangbornIdentity/TaskPilot) — personal task manager with a native MCP server, REST API for LLM clients, and an htmx-rendered UI.
 
-Built with .NET 10, ASP.NET Core, EF Core, Azure SQL, and Playwright E2E tests. Deployed at [taskpilot.azurewebsites.net](https://taskpilot.azurewebsites.net). Built to scratch my own itch and learn what shipping a real MCP server actually feels like.
+Built with .NET 10, ASP.NET Core, EF Core, Azure SQL, and Playwright E2E tests. Deployed at [taskpilot.azurewebsites.net](https://taskpilot.azurewebsites.net). Built to scratch my own itch, learn what shipping a real MCP server actually feels like, and explore what AI-assisted development looks like at real-project scale (developed alongside Claude Code and Codex).
 
 ## What I think about a lot
 
