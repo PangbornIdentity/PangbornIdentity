@@ -14,7 +14,7 @@ I care about scaling team performance and engineering process, and about getting
 
 Most of it is private, but the themes are:
 
-- **Instrumenting delivery, not just reporting on it.** Tooling that makes cycle time, SLA misses, and review/QA flow visible to the teams doing the work, with light gamification designed so the winning move is improving outcomes, not gaming the number.
+- **Instrumenting delivery, not just reporting on it.** Tooling that makes cycle time, SLA misses, and review/QA flow visible to the teams doing the work — with light gamification designed so the winning move is improving outcomes, not gaming the number.
 - **Raising the floor for every team.** Deployment-observability standards so every service reports what's running where, AI-assisted review in the pipeline, cleaner code-ownership and review routing, and a docs uplift across the platform. Work that improves every repo at once instead of one feature.
 - **Making quality repeatable.** Requirements-as-data with automated accessibility gating, so verifiable, accessible UI is the default path rather than a heroic effort.
 
