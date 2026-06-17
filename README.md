@@ -6,7 +6,7 @@ I care about scaling team performance and engineering process, and about getting
 
 ## Currently shipping
 
-🚀 [TaskPilot](https://github.com/PangbornIdentity/TaskPilot): a task manager with a native MCP server, a REST API for LLM clients, and an htmx-rendered UI. Live at [taskpilot.azurewebsites.net](https://taskpilot.azurewebsites.net).
+🚀 [TaskPilot](https://github.com/PangbornIdentity/TaskPilot): a task manager with a native MCP server, a REST API for LLM clients, and an htmx-rendered UI. dm me for access!
 
 .NET 10 / ASP.NET Core Razor Pages, EF Core, Azure SQL, HMAC-SHA256 API-key auth, audit logging, and 250+ tests (unit, integration, and a Playwright E2E suite). Built solo, alongside Claude Code and Codex, to find out what shipping a real MCP server and an AI-friendly app actually feels like past the demo stage.
 
